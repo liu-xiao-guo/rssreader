@@ -49,7 +49,7 @@ Item {
                         rex = rex = /<img[^>]+src='?(.*)'\s*\/>/g;
 //                      rex = /<img[^>]+src\s*=\s*['"]([^'"]+)['"][^>]*>/g;
 
-                    console.log("str: " + str);
+//                    console.log("str: " + str);
 
                     while ( m = rex.exec( str ) ) {
 //                        console.log("m1: " + m[1])
@@ -60,7 +60,7 @@ Item {
 //                    image = image.slice(0, -1);
 //                    image = image.substr(1);
 
-                    console.log("image: " + image)
+//                    console.log("image: " + image)
 
                     var title = get(i).title.toLowerCase();
                     var published = get(i).published.toLowerCase();

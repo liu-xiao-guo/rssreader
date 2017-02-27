@@ -160,8 +160,8 @@ MainView {
             if ( layout.columns == 2 && (listPage.width > units.gu(101))) {
                 console.log("it is added: " + listPage.width)
                 var model = articleList.model
-                articleContent.text = model.get(0).title
-                articleContent.image = model.get(0).image
+//                articleContent.text = model.get(0).title
+//                articleContent.image = model.get(0).image
                 layout.addPageToNextColumn(listPage, contentPage)
             }
         }

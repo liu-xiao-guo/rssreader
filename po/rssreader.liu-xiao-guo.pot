@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-02-23 03:46+0000\n"
+"POT-Creation-Date: 2017-02-27 11:49+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,6 +17,6 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/liuxg/qml/build-rssreader-UbuntuSDK_for_xenial_amd64_GCC_amd64_ubuntu_sdk_16_04-Debug/rssreader/rssreader.desktop.h:1
+#: /home/liuxg/qml/build-rssreader-Desktop-Debug/rssreader/rssreader.desktop.h:1
 msgid "rssreader"
 msgstr ""

@@ -28,6 +28,7 @@ Item {
             wrapMode: Text.WordWrap
             horizontalAlignment: Text.AlignHCenter
             fontSize: "large"
+            font.bold: true
             visible: true
         }
     }
